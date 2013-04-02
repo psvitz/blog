@@ -1,0 +1,15 @@
+C:\Code\blog\AutoGrid\AutoGrid\bin\Debug\AutoGrid.exe.config
+C:\Code\blog\AutoGrid\AutoGrid\obj\Debug\AutoGrid.csprojResolveAssemblyReference.cache
+C:\Code\blog\AutoGrid\AutoGrid\obj\Debug\MainWindow.baml
+C:\Code\blog\AutoGrid\AutoGrid\obj\Debug\MainWindow.g.cs
+C:\Code\blog\AutoGrid\AutoGrid\obj\Debug\App.g.cs
+C:\Code\blog\AutoGrid\AutoGrid\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Code\blog\AutoGrid\AutoGrid\obj\Debug\AutoGrid_MarkupCompile.cache
+C:\Code\blog\AutoGrid\AutoGrid\obj\Debug\AutoGrid_MarkupCompile.lref
+C:\Code\blog\AutoGrid\AutoGrid\obj\Debug\AutoGrid.exe
+C:\Code\blog\AutoGrid\AutoGrid\obj\Debug\AutoGrid.pdb
+C:\Code\blog\AutoGrid\AutoGrid\bin\Debug\AutoGrid.exe
+C:\Code\blog\AutoGrid\AutoGrid\bin\Debug\AutoGrid.pdb
+C:\Code\blog\AutoGrid\AutoGrid\obj\Debug\AutoGrid.g.resources
+C:\Code\blog\AutoGrid\AutoGrid\obj\Debug\AutoGrid.Properties.Resources.resources
+C:\Code\blog\AutoGrid\AutoGrid\obj\Debug\AutoGrid.csproj.GenerateResource.Cache

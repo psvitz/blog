@@ -1,0 +1,59 @@
+﻿<Window x:Class="AutoGrid.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525"
+        xmlns:Controls="clr-namespace:Controls">
+    <Grid>
+        <Controls:AutoGrid>
+
+            <Grid.ColumnDefinitions>
+
+                <ColumnDefinition Width="Auto"/>
+
+                <ColumnDefinition Width="*"/>
+
+            </Grid.ColumnDefinitions>
+
+            <TextBlock Text="Param 1"/>
+
+            <TextBox />
+
+            <TextBlock Text="Param 2"/>
+
+            <TextBox/>
+
+            <TextBlock Text="Param 3"/>
+
+            <TextBox />
+
+            <TextBlock Text="Param 4"/>
+
+            <TextBox/>
+
+            <TextBlock Text="Param 5"/>
+
+            <TextBox />
+
+            <TextBlock Text="Param 6"/>
+
+            <TextBox/>
+
+            <TextBlock Text="Param 7"/>
+
+            <TextBox />
+
+            <TextBlock Text="Param 8"/>
+
+            <TextBox/>
+
+            <TextBlock Text="Param 9"/>
+
+            <TextBox />
+
+            <TextBlock Text="Param 10"/>
+
+            <TextBox/>
+
+        </Controls:AutoGrid>
+    </Grid>
+</Window>
